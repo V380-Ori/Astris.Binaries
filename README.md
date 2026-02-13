@@ -1,4 +1,4 @@
-<img width="128" height="128" alt="Astris" src="https://github.com/user-attachments/assets/3187d4a2-899c-4cd1-b6fa-735afee01d3e" />
+<img width="128" height="128" alt="Astris" src="https://github.com/user-attachments/assets/3f4de9db-ce3f-4b5b-bcf6-5f344aba2f1b" />
 
 # Astris.Binaries
 
