@@ -1,3 +1,7 @@
+# 1.0.11+c2c7ba1a7
+Fixes:
+- Fix crash on launch when using macOS 14.
+
 # 1.0.10+c349d3e44
 Improvements:
 - Initial support for 22.0.0 titles.
