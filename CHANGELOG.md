@@ -1,3 +1,8 @@
+# 1.0.12+1f3919be0
+Fixes:
+- Fix a regression causing missing graphics in `Luigi's Mansion 3`.
+- Fix a regression causing graphical glitches in `Metroid Prime Remastered`.
+
 # 1.0.11+c2c7ba1a7
 Fixes:
 - Fix crash on launch when using macOS 14.
