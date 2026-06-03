@@ -4,6 +4,11 @@
 
 Distribution binaries of Astris - a Nintendo Switch 1 emulator based on Ryujinx for Apple silicon Macs (macOS 14+).
 
+> [!NOTE]
+> This repository is also mirrored on Codeberg. Releases are simultaneously published there:
+> <br>
+> https://codeberg.org/V380-Ori/Astris.Binaries
+
 ### Acknowledgements
 
 * Ryujinx Team and Contributors
