@@ -1,3 +1,15 @@
+# 1.0.13+03a1656fe
+Improvements:
+- Implement filesystem reactive game library.
+- Improve automatic game updates & DLCs selection.
+- Add option to hide game overlay.
+
+Fixes:
+- Fix a regression causing missing graphics in `Pokemon Legends: Arceus` and `The Legend of Zelda: Echoes of Wisdom`.
+
+Vulkan Translation Layers:
+- Update KosmicKrisp to [e8ab81cc](https://gitlab.freedesktop.org/mesa/mesa/-/commit/e8ab81cc3a1c35090e1534f356b8315456ba91a9).
+
 # 1.0.12+1f3919be0
 Fixes:
 - Fix a regression causing missing graphics in `Luigi's Mansion 3`.
