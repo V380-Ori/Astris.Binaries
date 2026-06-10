@@ -1,3 +1,7 @@
+# 1.0.14+04b3b13a8
+Fixes:
+- Fix a regression causing captured frames (screenshots) to be saved with incorrect transparency.
+
 # 1.0.13+03a1656fe
 Improvements:
 - Implement filesystem reactive game library.
