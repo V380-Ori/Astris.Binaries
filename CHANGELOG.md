@@ -1,3 +1,18 @@
+# 1.0.15+89e095356
+Breaking change:
+- macOS 15.0 is now the minimum supported version.
+
+Improvements:
+- Whole UI project refinements:
+    - New settings to match modern macOS.
+    - Improvements to readability & accessibility.
+- Support combo XCI games for auto-selection of updates/DLCs during library scanning.
+
+Fixes:
+- Fix a possible crash caused by data race during library scanning.
+- Fix an issue where some library folders couldn’t be removed.
+- Prevent eviction of library folders located on disconnected external storage.
+
 # 1.0.14+04b3b13a8
 Fixes:
 - Fix a regression causing captured frames (screenshots) to be saved with incorrect transparency.
