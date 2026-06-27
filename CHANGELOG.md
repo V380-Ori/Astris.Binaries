@@ -1,3 +1,10 @@
+# 1.0.16+0e933ae41
+Improvements:
+- Add profile selection to the toolbar to quickly switch between user profiles.
+
+Fixes:
+- Fix an issue where "Add Profile..." button was missing in settings if the user had only one profile.
+
 # 1.0.15+89e095356
 Breaking change:
 - macOS 15.0 is now the minimum supported version.
