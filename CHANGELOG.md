@@ -1,3 +1,21 @@
+# 1.0.17+ac97c0890
+Improvements:
+- Implement keyboard input mapping.
+- Add controller sticks deadzone & triggers threshold options.
+- Edge-to-edge window during emulation with locked aspect ratio & new game overlay. (macOS 26+)
+- Add docked mode & v-sync toggles to the menu for keyboard shortcuts during emulation.
+
+Fixes:
+- Fix `Rhythm Heaven Groove` infinite loading.
+- Fix an issue where incorrect avatar image size for user profiles was set after creating/editing profile which caused crashes in some games.
+    - Note: If you made any changes to user profiles, you will have to choose an avatar image for the profile again to resolve this issue.
+- Do not show duplicate games in game library, and prioritize by internal volume.
+- Fix an issue where pressing ESC during emulation wouldn't exit full screen.
+
+Vulkan Translation Layers:
+- Update MoltenVK to [1.4.3-preview.1](https://github.com/V380-Ori/Ryujinx.MoltenVK/commit/f16a46efd19e0ec690a801118bacb4e461be9c06).
+- Update KosmicKrisp to [3e2d8517](https://gitlab.freedesktop.org/mesa/mesa/-/commit/3e2d8517b897026377267c09975db83525d2fc95).
+
 # 1.0.16+0e933ae41
 Improvements:
 - Add profile selection to the toolbar to quickly switch between user profiles.
