@@ -1,3 +1,7 @@
+# 1.0.18+24bfd57a8
+Fixes:
+- Fix incorrect controller triggers threshold logic.
+
 # 1.0.17+ac97c0890
 Improvements:
 - Implement keyboard input mapping.
