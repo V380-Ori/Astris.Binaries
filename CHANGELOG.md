@@ -1,3 +1,7 @@
+# 1.0.19+f87bcdbca
+Fixes:
+- Fix a possible crash after exiting full screen on macOS 26+.
+
 # 1.0.18+24bfd57a8
 Fixes:
 - Fix incorrect controller triggers threshold logic.
