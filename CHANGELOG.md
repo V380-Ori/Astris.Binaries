@@ -1,3 +1,7 @@
+# 1.0.20+141efefc5
+Fixes:
+- Fix a possible crash during emulation start.
+
 # 1.0.19+f87bcdbca
 Fixes:
 - Fix a possible crash after exiting full screen on macOS 26+.
