@@ -1,3 +1,11 @@
+# 1.0.21+83437d20e
+Fixes:
+- Fix `Yooka-Laylee` crash on launch.
+- Fix performance regression on MoltenVK in some games such as `Monster Hunter Rise: Sunbreak`.
+
+Vulkan Translation Layers:
+- Update MoltenVK to [1.4.3-preview.3](https://github.com/V380-Ori/Ryujinx.MoltenVK/commit/8a8f8f7231ea8a47bbf5db55033fa7717c44dd9e).
+
 # 1.0.20+141efefc5
 Fixes:
 - Fix a possible crash during emulation start.
