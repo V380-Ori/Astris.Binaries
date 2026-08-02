@@ -1,3 +1,12 @@
+# 1.0.22+d354de498
+Fixes:
+- Fix graphical issue in `The Legend of Zelda: Tears of the Kingdom` when not using 1x resolution scaling.
+- Fix graphical issue in `Game Builder Garage`.
+- Fix crash in `Kirby's Return to DreamLand Deluxe` after completing a level.
+
+Vulkan Translation Layers:
+- Update MoltenVK to [1.4.3-preview.4](https://github.com/V380-Ori/Ryujinx.MoltenVK/commit/fbe2476fc611ba274f3e3208c759c2990c73def6).
+
 # 1.0.21+83437d20e
 Fixes:
 - Fix `Yooka-Laylee` crash on launch.
