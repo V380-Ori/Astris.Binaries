@@ -1,3 +1,21 @@
+# 1.0.23+46883fa0b
+Improvements:
+- Game Overlay (macOS 26+):
+    - Add all graphical enhancements options.
+    - Any changed graphical option now overrides global option and can be restored (right-click).
+
+Fixes:
+- Fix possible out-of-memory system crash when using MoltenVK.
+- Fix already connected controller input not working if app is launched via LaunchServices (Finder/Spotlight/ES-DE) requiring to reconnect controller.
+- Fix `Marvel Cosmic Invasion` crash during launch.
+- Fix `TIEBREAK+: Official Game of the ATP and WTA` crash during launch.
+- Fix `Pokémon Let's Go Pikachu` crash that happens depending on the number of scene transitions and encounters.
+- Workaround `KAMEN RIDER CLIMAX SCRAMBLE` crash during launch.
+
+Vulkan Translation Layers:
+- Update KosmicKrisp, based on [97bfc0f8](https://gitlab.freedesktop.org/mesa/mesa/-/commit/97bfc0f88f43554b47f05ad37512f98cd086a80d) + non-Metal-4-related command encoder upstream changes.
+- Update MoltenVK to [1.4.3-preview.6](https://github.com/V380-Ori/Ryujinx.MoltenVK/commit/45f9b641e45f1d150f3521d74808477add9e975b).
+
 # 1.0.22+d354de498
 Fixes:
 - Fix graphical issue in `The Legend of Zelda: Tears of the Kingdom` when not using 1x resolution scaling.
