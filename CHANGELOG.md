@@ -1,3 +1,9 @@
+# 1.0.24+da061dba2
+Fixes:
+- Fix performance regression in some Unreal Engine 4/5 titles such as `Stray`.
+- Workaround `Absolum` crash when using `1.2.0` game version.
+- An attempt to fix play time sometimes not saving after a session.
+
 # 1.0.23+46883fa0b
 Improvements:
 - Game Overlay (macOS 26+):
