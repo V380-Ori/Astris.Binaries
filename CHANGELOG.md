@@ -1,3 +1,14 @@
+# 1.0.25+66283e026
+Improvements:
+- Add support for [NSZ](https://github.com/nicoboss/nsz) zstd-compressed NCA/NSP/XCI.
+    - NOTE: Only block compression is supported.
+
+Fixes:
+- Fix `Metal Gear Solid 4: Guns of the Patriots - Master Collection Version` crash.
+
+Vulkan Translation Layers:
+- Update KosmicKrisp, based on [97bfc0f8](https://gitlab.freedesktop.org/mesa/mesa/-/commit/97bfc0f88f43554b47f05ad37512f98cd086a80d) + non-Metal-4-related command encoder upstream changes.
+
 # 1.0.24+da061dba2
 Fixes:
 - Fix performance regression in some Unreal Engine 4/5 titles such as `Stray`.
