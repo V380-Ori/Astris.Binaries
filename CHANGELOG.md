@@ -1,3 +1,7 @@
+# 1.0.26+3acc192af
+Fixes:
+- Fix a regression causing `Bayonetta 3` and `Pokémon Legends: Arceus` to crash.
+
 # 1.0.25+66283e026
 Improvements:
 - Add support for [NSZ](https://github.com/nicoboss/nsz) zstd-compressed NCA/NSP/XCI.
