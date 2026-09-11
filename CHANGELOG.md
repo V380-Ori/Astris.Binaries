@@ -1,3 +1,12 @@
+# 1.0.27+e70414f92
+Improvements:
+- Add an option to allow background controller input (disabled by default).
+
+Fixes:
+- Fix a regression causing graphical issue in `Donkey Kong Country: Tropical Freeze`.
+- Fix crash in `Hades II` during loading/entering specific areas.
+- Fix behavior of `Auto-hide interface` option.
+
 # 1.0.26+3acc192af
 Fixes:
 - Fix a regression causing `Bayonetta 3` and `Pokémon Legends: Arceus` to crash.
