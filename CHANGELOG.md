@@ -1,3 +1,7 @@
+# 1.0.29+835d74ccc
+Fixes:
+- Fix a regression causing toolbar items to always use dark mode color scheme.
+
 # 1.0.28+76715232a
 Fixes:
 - Fix crash in `The Lego Ninjago Movie Video Game` during launch.
