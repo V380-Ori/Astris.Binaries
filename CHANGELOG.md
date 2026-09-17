@@ -1,3 +1,7 @@
+# 1.0.28+76715232a
+Fixes:
+- Fix crash in `The Lego Ninjago Movie Video Game` during launch.
+
 # 1.0.27+e70414f92
 Improvements:
 - Add an option to allow background controller input (disabled by default).
