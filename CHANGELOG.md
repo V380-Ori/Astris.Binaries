@@ -1,3 +1,14 @@
+# 1.0.30+115dc1ae0
+Improvements:
+- Implement game library cache to improve scanning time for external drives.
+- Add an option `Always use immediate presentation` to allow disabling host V-Sync which reduces presentation delay at the cost of possible screen tearing.
+- Support adding game updates/DLCs/mods by drag and drop in game library.
+
+Fixes:
+- Workaround `BioShock Remastered` being stuck on a black screen during launch.
+- Fix a regression causing some games such as `Mario Party Superstars` to crash by being unable to access save data.
+- Fix a regression causing a crash during quest loading in `Monster Hunter Rise: Sunbreak`.
+
 # 1.0.29+835d74ccc
 Fixes:
 - Fix a regression causing toolbar items to always use dark mode color scheme.
