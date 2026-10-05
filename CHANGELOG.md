@@ -1,3 +1,7 @@
+# 1.0.31+3e40e1a1a
+Fixes:
+- Fix severe performance regression when using Apple Hypervisor in some games.
+
 # 1.0.30+115dc1ae0
 Improvements:
 - Implement game library cache to improve scanning time for external drives.
