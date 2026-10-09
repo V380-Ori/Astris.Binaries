@@ -1,3 +1,11 @@
+# 1.0.32+2398e7c80
+Improvements:
+- Implement DSU controller input.
+
+Fixes:
+- Fix an issue that caused audio loss/latency during system output changes. 
+- Fix an issue that caused a crash on game launch if the data folder was on an external drive formatted with Windows file systems.
+
 # 1.0.31+3e40e1a1a
 Fixes:
 - Fix severe performance regression when using Apple Hypervisor in some games.
